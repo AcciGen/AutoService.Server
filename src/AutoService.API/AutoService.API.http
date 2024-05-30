@@ -1,0 +1,6 @@
+@AutoService.API_HostAddress = http://localhost:5003
+
+GET {{AutoService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
